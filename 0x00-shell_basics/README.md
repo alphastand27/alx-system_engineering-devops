@@ -20,4 +20,4 @@
 
 9 - The rmdir /tmp/myfirstdirectory script deletes the directory myfirstdirectory.
 
-8 - The cd .. script sets the current directory to the previours directory.
+8 - The cd - script sets the current directory to the previours directory.
