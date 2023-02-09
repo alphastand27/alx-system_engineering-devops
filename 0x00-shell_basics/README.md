@@ -19,3 +19,5 @@
 8 - The rm /tmp/myfirstdirectory/betty script deletes the betty file.                                                                   
 
 9 - The rmdir /tmp/myfirstdirectory script deletes the directory myfirstdirectory.
+
+8 - The cd .. script sets the current directory to the previours directory.
