@@ -4,4 +4,5 @@
 3 - The ls -l script displays current directory contents in a long format.
 4 - The ls -la script displays current directory contents including hidden files(starting with .) using a long format.
 5 - The ls -an script displays current directory contents using long format with user and group IDs displayed numerically and the hidden files(starting with .)
-6 - The mkdir /tmp/my_first_directory creates the 'my_first_directory' directory in the /tmp/ directory.
+6 - The mkdir /tmp/my_first_directory script creates the 'my_first_directory' directory in the /tmp/ directory.
+7 - The mv /tmp/betty /tmp/my_first_directory script moves the betty file from the /tmp/ directory to the /tmp/my_first_directory directory
