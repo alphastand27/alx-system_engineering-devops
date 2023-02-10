@@ -25,3 +25,5 @@
 11 - The ls -na . -ls .. -na -ls -na /boot script displays the contents(including the hidden files(starting with .)) of the current directory, the parent directory and the /boot directory in long format.
 
 12 - The file script displays the type of the file.
+
+13 - The ln -s /bin/ls __ls__ script creates a symbolic link for /bin/ls named __ls__.
