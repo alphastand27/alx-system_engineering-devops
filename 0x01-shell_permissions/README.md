@@ -7,3 +7,5 @@
 3 - The chown script is used to change the user of a file.
 
 4 - The touch script is used to create a file.
+
+5 - The chmod o+x hello script is used to give execute permission to the user.
