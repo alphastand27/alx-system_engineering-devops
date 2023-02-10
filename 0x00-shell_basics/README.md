@@ -27,3 +27,5 @@
 12 - The file script displays the type of the file.
 
 13 - The ln -s /bin/ls __ls__ script creates a symbolic link for /bin/ls named __ls__.
+
+14 - The cp script is used for copying files.
