@@ -8,4 +8,4 @@
 
 4 - The touch script is used to create a file.
 
-5 - The chmod o+x hello script is used to give execute permission to the user.
+5 - The chmod 701 hello script is used to give execute permission to the user.
