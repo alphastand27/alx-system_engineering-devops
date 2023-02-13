@@ -6,4 +6,6 @@
 
 3 - The cat /etc/passwd /etc/hosts script displays the contents of two files.
 
-4 - THe tail < /etc/passwd script displays the last lines of the /etc/passwd.
+4 - The tail < /etc/passwd script displays the last lines of the /etc/passwd.
+
+5 - The head < /etc/passwd sccript displays the first lines of the /etc/passwd.
