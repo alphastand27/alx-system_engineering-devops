@@ -9,3 +9,5 @@
 4 - The tail < /etc/passwd script displays the last lines of the /etc/passwd.
 
 5 - The head < /etc/passwd sccript displays the first lines of the /etc/passwd.
+
+6 - The head -n 3 iacta | tail -n 1 scripts display the third line of the iacta file.
