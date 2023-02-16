@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(printf '%s\n' {a..z}{a..z} | awk '!/oo/ && /^a/')"
+echo {a..z}{a..z} | tr ' ' '\n' | grep -v 'oo' | grep '^a' | cat
